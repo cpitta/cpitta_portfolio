@@ -22,7 +22,7 @@ description:      'Minimal Exhibitions with Jekyll'
 url:              'cpitta.github.io'
 baseurl:          '/cpitta_portfolio'
 copyright:        'Example copyright org, 2023'
-logo:             '/assets/logo.png'
+logo:             '/assets/logo.jpg'
 default_thumb:    '/assets/default.png'
 
 # ---------------------------------------------------------------
