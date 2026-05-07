@@ -23,7 +23,7 @@ url:              'https://cpitta.github.io'
 baseurl:          '/cpitta_portfolio'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.jpg'
-default_thumb:    '/assets/default.png'
+default_thumb:    '/assets/logo.jpg'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
