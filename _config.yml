@@ -19,7 +19,7 @@
 
 title:            'Cecilia Pitta'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://cpitta.github.io/cpitta_portfolio'
+url:              'cpitta.github.io'
 baseurl:          '/cpitta_portfolio'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
